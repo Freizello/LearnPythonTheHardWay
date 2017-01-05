@@ -1,0 +1,3 @@
+ini test file yang dibuat pake echo 1
+ini test file yang dibuat pake echo 2
+ini test file yang dibuat pake echo 3
